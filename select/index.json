@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "曲名はまだないです",
+  "base_artist": "Aogumo",
+  "createdAt": "2025-12-02T13:25:26.613540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曲名はまだないです",
+      "artist": "Aogumo",
+      "has_synced": true,
+      "path": "select/01_曲名はまだないです_Aogumo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "『曲名はまだないです』 - Aogumo",
+      "artist": "Aogumo",
+      "has_synced": false,
+      "path": "select/02_『曲名はまだないです』_-_Aogumo_Aogumo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曲名はまだないです (弾き語りver.)",
+      "artist": "Aogumo",
+      "has_synced": false,
+      "path": "select/03_曲名はまだないです_(弾き語りver.)_Aogumo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曲名はまだないです",
+      "artist": "Aogumo",
+      "has_synced": false,
+      "path": "select/pl_01_曲名はまだないです_Aogumo.txt"
+    }
+  ]
+}
